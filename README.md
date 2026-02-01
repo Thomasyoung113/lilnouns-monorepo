@@ -80,3 +80,7 @@ You should be able to fix this and get past the install step by ensuring you are
 From the root of the monorepo run `yarn workspace @nouns/<PACKAGE> add <NPM_PACKAGE>`. e.g. to add the `uuid` npm package to the webapp you would run `yarn workspace @nouns/webapp add uuid`.
 
 You can also cd into the package where you want to add the npm package and run `yarn add <NPM_PACKAGE>`
+
+## About Lil Nouns
+
+Lil Nouns is a community-driven project that extends the Nouns ecosystem with accessible, fun, and experimental features.
